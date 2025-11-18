@@ -1,4 +1,4 @@
-const perguntas = [
+export const perguntas = [
     {
         enunciado: "Você prefere atividades mais criativas ou analíticas?",
         alternativas: [
